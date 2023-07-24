@@ -115,6 +115,10 @@ article {
         border-radius: 0.5rem;
     }
 
+    & h1 {
+        margin-top: .5rem;
+    }
+
     & p {
         padding: 0 1rem 1.5rem;
     }
