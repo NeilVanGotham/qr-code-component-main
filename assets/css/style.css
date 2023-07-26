@@ -1,15 +1,3 @@
-/* Provided by Frontend Mentor */
-.attribution {
-  position: absolute;
-  bottom: 0;
-  font-size: 11px;
-  text-align: center;
-  width: 100%;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
-
 /* Variables */
 :root {
   --clr-neutral-100: hsl(0, 0%, 100%);
